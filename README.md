@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left"># 💫 About Me:<br>🔭 I’m currently working on a VR-App.<br>🌱 I’m currently learning everything that I need to know.<br>💬 Ask me about 3D Printing or Modeling.<br><br>⚡ Fun fact: I once changed a design by just one pixel width... and was happier afterwards...</h3>
+<h3 align="left">💫 About Me:<br>🔭 I’m currently working on a VR-App.<br>🌱 I’m currently learning everything that I need to know.<br>💬 Ask me about 3D Printing or Modeling.<br><br>⚡ Fun fact: I once changed a design by just one pixel width... and was happier afterwards...</h3>
 
 ###
 
