@@ -2,7 +2,12 @@
 
 ###
 
-<h3 align="left">💫 About Me:<br>🔭 I’m currently working on a VR-App.<br>🌱 I’m currently learning everything that I need to know.<br>💬 Ask me about 3D Printing or Modeling.<br><br>⚡ Fun fact: I once changed a design by just one pixel width... and was happier afterwards...</h3>
+<h3 align="left">About Me: </br>
+🔭 I'm currently focused on developing an inspiring VR app with Unity. </br>
+🌱 I'm always learning, absorbing everything I need to bring my projects to life. </br>
+💬 Feel free to ask me about 3D printing, modeling, or Home Assistant-things —those are my specialties. </br>
+  
+⚡ Fun Fact: I once changed a design by just one pixel width... and was happier afterwards...</h3>
 
 ###
 
