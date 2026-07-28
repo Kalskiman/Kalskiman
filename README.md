@@ -1,15 +1,5 @@
 <h2 align="left">Moin!* my name is Robin.</h2>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalskiman/kalskiman/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalskiman/kalskiman/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kalskiman/kalskiman/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <h5 align="left">Getting Shit done with:</h5>
 
 ###
